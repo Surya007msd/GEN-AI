@@ -14,8 +14,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # Define Weaviate URL and API key
-WEAVIATE_URL = "https://lzl0mhchtfiwmqvgmzbd3a.c0.asia-southeast1.gcp.weaviate.cloud"  # Replace with your actual Weaviate URL
-API_KEY = "GFDC0XdWI0NrAP6gKxtRgf62eu9IV7edy5x9"  # Replace with your actual API key
+WEAVIATE_URL = "https://5frdqgfpqwsfulwj6rttq.c0.asia-southeast1.gcp.weaviate.cloud"  # Replace with your actual Weaviate URL
+API_KEY = "U2imUjw7yKFu0KBuYdlsYkJIiUyKaaNKakZo"  # Replace with your actual API key
 
 # Spotify Authentication
 SPOTIPY_CLIENT_ID = "eae5486e35f64166a47238d8ecfebc24"  # Replace with your actual Client ID
